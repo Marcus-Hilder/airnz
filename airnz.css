@@ -1,7 +1,7 @@
 /*font and others*/
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
   }
   /* genral nav setings*/
   .navbar {
@@ -20,7 +20,7 @@ body {
 
   }
   #dildo{
-    padding-left: 700px;
+    padding-left: 680px;
   }
   /* non dropdown nav part*/
   .navbar a {
@@ -91,7 +91,7 @@ body {
   body {margin:25px;}
 
 div.polaroid {
-  width: 80%;
+  width: 20%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
